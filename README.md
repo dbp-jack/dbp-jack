@@ -114,8 +114,8 @@ _Developer forged by real-world challenges and refined by experience._
   - 초기에는 setInterval 기반 AJAX 방식으로 실시간 ECG 데이터를 처리했으나, 서버 부하 증가와 데이터 지연·누락 문제가 발생  
   - 이를 AJAX 롱 폴링 방식으로 개선하여 중복 요청과 불필요한 부하를 제거하고, 데이터 손실 없는 안정적인 흐름 유지  
   - 그 결과 평균 응답 지연 시간이 320ms에서 90ms로 약 72% 감소, 0.1초 이내의 실시간 반응성 확보
-  - [대전대학교 - 호치민시 베트남국립대학교, 글로벌 캡스톤디자인 성과 교류](https://www.dailycc.net/news/articleView.html?idxno=751998#google_vignette)
   - [2023 한국실천공학교육학회 추계종합학술대회 - 학술 논문 발표](https://slime-face-7c4.notion.site/2023-1f0eeaa2f0af802ebe9ece38cc503e4d?pvs=4)
+  - [대전대학교 - 호치민시 베트남국립대학교, 글로벌 캡스톤디자인 성과 교류](https://www.dailycc.net/news/articleView.html?idxno=751998#google_vignette)
 ---
 
 ### 🏗️ [ICT 인턴십] – 건설현장 대시보드(개인 프로젝트 6개월)
