@@ -55,9 +55,14 @@ _Developer forged by real-world challenges and refined by experience._
 팀 구성: 4명 / 역할: 팀장  
 담당 도메인: 주문, 결제, 인프라 (AWS ECS)  
 - 구현/성과:  
-  - 주요 구현 내용 1  
-  - 주요 구현 내용 2  
-  - 주요 성과나 배운 점
+  - 주문 생성 및 결제 결과에 따른 상태 전이 API 구현, Kafka 기반 비동기 이벤트 흐름 설계
+  - TICKET_RESERVED 수신 시 주문 생성 및 ORDER_CREATED 발행, 결제 결과에 따른 상태 전이 및 보상 트랜잭션 처리
+  - Toss Payments API 연동을 통한 실결제 처리 및 결제 취소 API 구현
+  - Kafka 이벤트 기반 구조로 결합도 감소 및 처리 흐름 안정화
+  - Feign → Kafka 전환으로 응답 시간 83% 개선 (128ms → 21ms)
+  - Kafka 병렬 처리 구조로 TPS 3배 향상 (83.3 → 250), 응답 시간 60% 단축 (6379ms → 2515ms)
+
+
 
 ---
 
@@ -68,8 +73,12 @@ _Developer forged by real-world challenges and refined by experience._
 - 담당 도메인: 유저, 인증, 게이트웨이, 인프라(Docker)  
 - 구현/성과:  
   - 유저 서비스 및 인증 처리, API Gateway 설계
-  - 주요 구현 내용 2  
-  - 주요 성과나 배운 점
+  - JWT 기반 토큰 인증 구조 설계, Auth 서비스에서 토큰 생성·검증, Gateway에서 인증 필터 적용
+  - Redis 기반 유저 조회 캐싱 적용으로 DB 부하 분산 및 응답 속도 개선
+  - Spring Cloud Gateway + Eureka 기반 API 라우팅 및 서비스 디스커버리 구성
+  - 인증과 사용자 도메인 분리 및 단일 책임 원칙에 따른 서비스 구조 개선
+  - WebClient 기반 내부 비동기 통신 구성 → 프론트 없는 구조에서 도메인 간 데이터 전달 문제 해결
+  - 인증/조회 기능 분리와 캐시 적용으로 응답 속도 및 구조 안정성 향상
  
   
 ---
@@ -82,10 +91,11 @@ _Developer forged by real-world challenges and refined by experience._
 - 팀 구성: 4명 / 역할: 팀장  
 - 담당 도메인: 가게, 리뷰, 카테고리  
 - 구현/성과:  
-  - 주요 구현 내용 1  
-  - 주요 구현 내용 2  
-  - 주요 성과나 배운 점
-
+  - 가게 등록/수정/삭제, 카테고리 기반 검색, 리뷰 작성 및 수정 등 도메인 기능 구현
+  - 각 도메인 간 의존성을 최소화한 독립 구조 설계
+  - Swagger 기반 API 문서화로 프론트 협업 및 확장성 고려한 인터페이스 구축
+  - WebClient 도입으로 내부 도메인 간 데이터 전송 문제 해결
+  - 모놀리식 구조 내 도메인 분리 및 단일 책임 원칙 적용으로 유지보수성과 확장성 확보
 ---
 
 ### 🧠 [AI 홍보물 제작 서비스](https://github.com/flyai-Ambition7)  
