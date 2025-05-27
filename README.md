@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=0d8abc&height=200&section=header&text=실전에서%20부딪히고%2C%20그%20경험을%20가공해내는%20개발자입니다.%0AA%20developer%20who%20learns%20by%20doing%20and%20grows%20through%20experience.&fontSize=27&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=speech&color=0d8abc&height=200&section=header&text=실전에서%20부딪히고%2C%20그%20경험을%20가공해내는%20개발자입니다.&fontSize=35&fontColor=ffffff)
+
+<p align="center"><sub><i>A developer who learns by doing and grows through experience.</i></sub></p>
 
 
 
