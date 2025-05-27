@@ -51,10 +51,10 @@ _Developer forged by real-world challenges and refined by experience._
 ### 🧢 [Teepick](https://github.com/FINAL-SPARTA/SPARTA-FINAL-PROJECT)  
 **2025.04 – 2025.05**  
 야구 팬을 위한 티켓 예매·이벤트·채팅 통합 플랫폼  
-- 팀 구성: 4명 / 역할: 팀장  
-- 담당 도메인: 주문, 결제, 인프라 (AWS ECS)  
-- 주요 내용: 실시간 채팅, 이벤트 관리, 알림 기능이 통합된 팬 플랫폼.  
-  대규모 트래픽 대응과 결제 시스템이 반영된 실서비스 수준의 구조 설계.
+팀 구성: 4명 / 역할: 팀장  
+담당 도메인: 주문, 결제, 인프라 (AWS ECS)  
+티켓팅, 실시간 채팅, 이벤트 관리, 알림 기능이 통합된 팬 플랫폼  
+대규모 트래픽 대응과 결제 시스템이 반영된 실서비스 수준의 구조 설계
 
 ---
 
@@ -62,7 +62,7 @@ _Developer forged by real-world challenges and refined by experience._
 **2025.03 – 2025.04**  
 - 팀 구성: 4명 / 역할: 팀장  
 - 담당 도메인: 유저, 인증, 게이트웨이, 인프라 (Docker)  
-- 설명: MSA 기반의 유저 서비스 및 인증 처리, API Gateway 설계.  
+MSA 기반의 유저 서비스 및 인증 처리, API Gateway 설계.  
   보안과 확장성을 고려한 엔터프라이즈 환경용 플랫폼 구축.
 
 ---
