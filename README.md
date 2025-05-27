@@ -31,12 +31,12 @@
 
 ## 📊 GitHub Stats & Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dbp-jack&show_icons=true&theme=default" alt="dbp-jack's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbp-jack&layout=compact&theme=default" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats & Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api?username=dbp-jack&show_icons=true&theme=default" alt="dbp-jack's GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbp-jack&layout=compact&theme=default" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=dbp-jack&show_icons=true&theme=default&include_all_commits=true" />
 
 ## 📁 Projects
 
