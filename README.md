@@ -1,6 +1,6 @@
 <!-- 헤더 이미지 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20dbpjack%27s%20GitHub!%20%F0%9F%91%8B%F0%9F%8F%BB&fontSize=52&animation=fadeIn&fontAlignY=36&textColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20dbp-jack%27s%20GitHub!%20%F0%9F%91%8B%F0%9F%8F%BB&fontSize=52&animation=fadeIn&fontAlignY=36&textColor=ffffff)
 
 <!-- 소개 문구 -->
 
