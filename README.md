@@ -29,10 +29,14 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
-<div align="center" style="display: flex; justify-content: center;">
+## 📊 GitHub Stats & Most Used Languages
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dbp-jack&show_icons=true&theme=default" alt="dbp-jack's GitHub stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbp-jack&layout=compact&theme=default" alt="Top Languages" />
-</div>
+</p>
 
 ## 📁 Projects
 
