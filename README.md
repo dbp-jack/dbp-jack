@@ -3,17 +3,35 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=0d8abc&height=200&section=header&text=%20Welcome%20to%20dbp-jack's%20GitHub!%20👋🏻&fontSize=30&fontColor=ffffff&descAlignY=28)
 
 <!-- 소개 문구 -->
-<div align="reft">
-  
-# 안녕하세요. 저는 실전에서 부딪히고, 그 경험을 가공하는 개발자입니다.
 
+# 안녕하세요. 저는 실전에서 부딪히고, 그 경험을 가공하는 개발자입니다.
 # Developer forged by real-world challenges and refined by experience
 
-</div>
+📫 **Email**: dbp100402@gmail.com  
+📘 **Blog**: [https://dev99-tale.tistory.com](https://dev99-tale.tistory.com)
 
-## 📘 Blog & Portfolio
-- [블로그: devlog.tistory.com]([https://devlog.tistory.com](https://dev99-tale.tistory.com))
-- [포트폴리오 보기](https://yourportfolio.com)
+## 🔧 Skills
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-009688?style=flat)
+![MSA](https://img.shields.io/badge/MSA-FF7043?style=flat)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 
 ## 📁 Projects
