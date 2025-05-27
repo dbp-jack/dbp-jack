@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=0d8abc&height=200&section=header&text=실전에서%20부딪히고%2C%20그%20경험을%20가공해내는%20개발자입니다.&fontSize=35&fontColor=ffffff)
+<!-- 헤더: 영어 문구 (작게 보여짐) -->
+![header](https://capsule-render.vercel.app/api?type=speech&color=0d8abc&height=200&section=header&text=A%20developer%20who%20learns%20by%20doing%20and%20grows%20through%20experience.&fontSize=24&fontColor=ffffff)
 
-<p align="center"><sub><i>A developer who learns by doing and grows through experience.</i></sub></p>
+<!-- 아래: 한국어 문구 (크게 중앙 정렬) -->
+<h2 align="center">실전에서 부딪히고, 그 경험을 가공해내는 개발자입니다.</h2>
+
 
 
 
