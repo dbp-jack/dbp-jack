@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=0d8abc&height=200&section=header&text=%EC%8B%A4%EC%A0%84%EC%97%90%EC%84%9C%20%EB%B6%80%EB%94%AA%ED%9E%88%EA%B3%A0,%20%EA%B7%B8%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EA%B0%80%EA%B3%B5%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90&fontSize=30&fontColor=ffffff&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=speech&color=0d8abc&height=200&section=header&text=%EC%8B%A4%EC%A0%84%EC%97%90%EC%84%9C%20%EB%B6%80%EB%94%AA%ED%9E%88%EA%B3%A0,%20%EA%B7%B8%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EA%B0%80%EA%B3%B5%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90&fontSize=30&fontColor=ffffff&descAlignY=80)
 
 
 
