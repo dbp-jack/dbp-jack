@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=0d8abc&height=200&section=header&text=Developer%20forged%20by%20real-world%20challenges%20and%20refined%20by%20experience&fontSize=30&fontColor=ffffff&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=speech&color=0d8abc&height=200&section=header&text=A%20developer%20who%20learns%20by%20doing%20and%20grows%20through%20experience&fontSize=30&fontColor=ffffff&descAlignY=40)
+
 
 
 
