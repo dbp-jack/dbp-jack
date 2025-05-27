@@ -1,11 +1,11 @@
 <!-- 헤더 이미지 -->
 
-![header](https://capsule-render.vercel.app/api?type=speech&color=0d8abc&height=200&section=header&text=👋%40Welcome%20to%20dbp-jack's%20GitHub!&fontSize=30&fontColor=ffffff&descAlignY=28)
+![header](https://capsule-render.vercel.app/api?type=speech&color=0d8abc&height=200&section=header&text=%20Welcome%20to%20dbp-jack's%20GitHub!%20👋🏻&fontSize=30&fontColor=ffffff&descAlignY=28)
 
 <!-- 소개 문구 -->
 <div align="center">
   
-## 실전에서 부딪히고, 그 경험을 가공하는 개발
+## 안녕하세요. 저는 실전에서 부딪히고, 그 경험을 가공하는 개발자입니다.
 
 ## Developer forged by real-world challenges and refined by experience
 
