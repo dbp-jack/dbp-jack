@@ -29,6 +29,11 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dbp-jack&show_icons=true&theme=default" alt="dbp-jack's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbp-jack&layout=compact&theme=default" alt="Top Languages" />
+</div>
+
 ## 📁 Projects
 
 ### 🧢 [Teepick](https://github.com/FINAL-SPARTA/SPARTA-FINAL-PROJECT)  
@@ -89,4 +94,4 @@ MSA 기반 물류 관리 및 배송 시스템
 - 실시간 장비 착용 데이터 수집/시각화 및 자동 로그 기능 구현 (AJAX 0.1초 단위 갱신)  
 
 **트러블 슈팅**:  
-- 개발 역량과 요구사항을 고려해 AJAX 방식으로 실시간 데이터 처리 성공 구현  
+- 개발 역량과 요구사항을 고려해 AJAX 방식으로 실시간 데이터 처리 성공 구현
