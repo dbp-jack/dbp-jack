@@ -40,7 +40,7 @@ _Developer forged by real-world challenges and refined by experience._
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=dbp-jack&show_icons=true&theme=default" alt="dbp-jack's GitHub stats" />
-
+> ⚠️ 상단 언어 통계는 개인 소유 레포지토리 기준이며, Organizations 활동은 포함되지 않습니다.
 ---
 
 ## 📁 Projects
