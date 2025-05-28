@@ -62,7 +62,7 @@ _Developer forged by real-world challenges and refined by experience._
   - Feign → Kafka 전환으로 응답 시간 83% 개선 (128ms → 21ms)
   - Kafka 병렬 처리 구조로 TPS 3배 향상 (83.3 → 250), 응답 시간 60% 단축 (6379ms → 2515ms)
 
-
+FIX - [👉 프로젝트 팀 노션 바로가기](https://slime-face-7c4.notion.site/9-FIX-1f0eeaa2f0af801c9cfffc280207a3be?pvs=4)
 
 ---
 
@@ -80,7 +80,7 @@ _Developer forged by real-world challenges and refined by experience._
   - WebClient 기반 내부 비동기 통신 구성 → 프론트 없는 구조에서 도메인 간 데이터 전달 문제 해결
   - 인증/조회 기능 분리와 캐시 적용으로 응답 속도 및 구조 안정성 향상
  
-  
+I4U - [👉 프로젝트 팀 노션 바로가기](https://slime-face-7c4.notion.site/16-I-4-U-1f0eeaa2f0af80bd9f00d0a062903703?pvs=4)
 ---
 
 ### 🍱 [B2C 음식 주문 플랫폼](https://github.com/sparta-onetoone/sparta-onetoone)  
@@ -96,6 +96,8 @@ _Developer forged by real-world challenges and refined by experience._
   - Swagger 기반 API 문서화로 프론트 협업 및 확장성 고려한 인터페이스 구축
   - WebClient 도입으로 내부 도메인 간 데이터 전송 문제 해결
   - 모놀리식 구조 내 도메인 분리 및 단일 책임 원칙 적용으로 유지보수성과 확장성 확보
+ 
+OneToOne - [👉 프로젝트 팀 노션 바로가기](https://slime-face-7c4.notion.site/11-OneToOne-1f0eeaa2f0af80199d6bc47ac641e384?pvs=4)
 ---
 
 ### 🧠 [AI 홍보물 제작 서비스](https://github.com/flyai-Ambition7)  
