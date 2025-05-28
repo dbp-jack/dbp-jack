@@ -81,6 +81,7 @@ FIX - [👉 프로젝트 팀 노션 바로가기](https://slime-face-7c4.notion.
   - 인증/조회 기능 분리와 캐시 적용으로 응답 속도 및 구조 안정성 향상
  
 I4U - [👉 프로젝트 팀 노션 바로가기](https://slime-face-7c4.notion.site/16-I-4-U-1f0eeaa2f0af80bd9f00d0a062903703?pvs=4)
+
 ---
 
 ### 🍱 [B2C 음식 주문 플랫폼](https://github.com/sparta-onetoone/sparta-onetoone)  
@@ -98,6 +99,7 @@ I4U - [👉 프로젝트 팀 노션 바로가기](https://slime-face-7c4.notion.
   - 모놀리식 구조 내 도메인 분리 및 단일 책임 원칙 적용으로 유지보수성과 확장성 확보
  
 OneToOne - [👉 프로젝트 팀 노션 바로가기](https://slime-face-7c4.notion.site/11-OneToOne-1f0eeaa2f0af80199d6bc47ac641e384?pvs=4)
+
 ---
 
 ### 🧠 [AI 홍보물 제작 서비스](https://github.com/flyai-Ambition7)  
