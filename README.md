@@ -49,8 +49,8 @@ _Developer forged by real-world challenges and refined by experience._
 **2025.04 – 2025.05**  
 야구 팬을 위한 티켓 예매·이벤트·채팅 통합 플랫폼
 대규모 트래픽 대응과 결제 시스템이 반영된 MSA기반 시스템 구현
-팀 구성: 4명 / 역할: 팀장  
-담당 도메인: 주문, 결제, 인프라 (AWS ECS)  
+- 팀 구성: 4명 / 역할: 팀장  
+- 담당 도메인: 주문, 결제, 인프라 (AWS ECS)  
 - 구현/성과:  
   - 주문 생성 및 결제 결과에 따른 상태 전이 API 구현, Kafka 기반 비동기 이벤트 흐름 설계
   - TICKET_RESERVED 수신 시 주문 생성 및 ORDER_CREATED 발행, 결제 결과에 따른 상태 전이 및 보상 트랜잭션 처리
