@@ -10,7 +10,7 @@ _Developer forged by real-world challenges and refined by experience._
 
 📫 **Email**: dbp100402@gmail.com  
 📘 **Linkdin**: [https://www.linkedin.com/in/minsoo-jeong-31861b401](https://www.linkedin.com/in/minsoo-jeong-31861b401)
-🏷️ **Portfolio: [https://dbp-jack.github.io/Profile/](https://dbp-jack.github.io/Profile/)
+🏷️ **Portfolio**: [https://dbp-jack.github.io/Profile/](https://dbp-jack.github.io/Profile/)
 
 ---
 
