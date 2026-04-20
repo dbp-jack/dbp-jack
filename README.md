@@ -9,7 +9,7 @@
 _Developer forged by real-world challenges and refined by experience._
 
 📫 **Email**: dbp100402@gmail.com  
-📘 **Linkdin**: [https://www.linkedin.com/in/minsoo-jeong-31861b401](https://www.linkedin.com/in/minsoo-jeong-31861b401)
+📘 **Linkdin**: [https://www.linkedin.com/in/minsoo-jeong-31861b401](https://www.linkedin.com/in/minsoo-jeong-31861b401)  
 🏷️ **Portfolio**: [https://dbp-jack.github.io/Profile/](https://dbp-jack.github.io/Profile/)
 
 ---
@@ -62,7 +62,10 @@ _Developer forged by real-world challenges and refined by experience._
   - 기능 우선순위 조율 및 개발 일정/작업 분배 지원
   - 이벤트·투표 도메인 중심으로 API 설계 기준 정리 및 협업 커뮤니케이션 리드
   - 운영 관점(모니터링/재처리/데이터 정합성) 요구사항을 개발에 반영해 안정성 강화
+ 
 **FIX - [👉 프로젝트 팀 기획서 바로가기](https://docs.google.com/document/d/11mKsXb3GQRfinyc0fYjn6MvsodHfxJZRFBkXZiOP6eA/edit?tab=t.0)
+
+---
 
 ### 🧢 [Teepick](https://github.com/FINAL-SPARTA/SPARTA-FINAL-PROJECT)  
 **2025.04 – 2025.05**  
