@@ -9,7 +9,8 @@
 _Developer forged by real-world challenges and refined by experience._
 
 📫 **Email**: dbp100402@gmail.com  
-📘 **Blog**: [https://dev99-tale.tistory.com](https://dev99-tale.tistory.com)
+📘 **Linkdin**: [https://www.linkedin.com/in/minsoo-jeong-31861b401](https://www.linkedin.com/in/minsoo-jeong-31861b401)
+🏷️ **Portfolio: [https://dbp-jack.github.io/Profile/](https://dbp-jack.github.io/Profile/)
 
 ---
 
@@ -44,6 +45,24 @@ _Developer forged by real-world challenges and refined by experience._
 ---
 
 ## 📁 Projects
+
+### 🛍️ [FeedShop](https://github.com/dbp-jack/FeedShop_Backend_Refactoring)
+**2025.0X - 2025.0X**  
+콘텐츠(피드) 기반 커뮤니티 유입을 쇼핑몰 구매 전환으로 연결하기 위해, 이벤트·투표·리워드 흐름을 결합한 참여형 커머스 백엔드 시스템을 구축한 프로젝트
+- **팀 구성:** 4명 / **역할:** 부팀장  
+- **담당 도메인:** 이벤트, 피드 투표
+- **구현/성과:**
+  - 피드 참여(투표)와 리워드(포인트/활동)를 연결해 사용자 체류 및 재참여 흐름 설계
+  - 이벤트 참여 피드 중심의 투표 API 구현(투표/취소/여부 확인/집계 조회)
+  - 이벤트 상태 기반 투표 제어(진행중만 허용) 및 중복 투표 방지 로직 적용
+  - 관리자용 리워드 이벤트 관리 기능 구현(목록/상세/통계/실패 재처리)
+  - 투표 집계 동기화 기능(단건/전체)으로 운영 데이터 정합성 확보
+  - 커뮤니티 트래픽이 상품 탐색·구매 전환으로 이어지도록 백엔드 흐름 고도화
+- **부팀장으로서 기여:**
+  - 기능 우선순위 조율 및 개발 일정/작업 분배 지원
+  - 이벤트·투표 도메인 중심으로 API 설계 기준 정리 및 협업 커뮤니케이션 리드
+  - 운영 관점(모니터링/재처리/데이터 정합성) 요구사항을 개발에 반영해 안정성 강화
+**FIX - [👉 프로젝트 팀 기획서 바로가기](https://docs.google.com/document/d/11mKsXb3GQRfinyc0fYjn6MvsodHfxJZRFBkXZiOP6eA/edit?tab=t.0)
 
 ### 🧢 [Teepick](https://github.com/FINAL-SPARTA/SPARTA-FINAL-PROJECT)  
 **2025.04 – 2025.05**  
