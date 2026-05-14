@@ -5,7 +5,8 @@
 <!-- 소개 문구 -->
 
 # 안녕하세요.  
-**실전에서 부딪히고, 그 경험을 가공하는 개발자 dbp-jack입니다.**  
+**수치로 검증하고, 팀 흐름을 맞추는 개발자 dbp-jack입니다.**
+**저는 실전에서 부딪히고, 그 경험을 가공하는 강점도 있습니다.**
 _Developer forged by real-world challenges and refined by experience._
 
 📫 **Email**: dbp100402@gmail.com  
@@ -38,10 +39,18 @@ _Developer forged by real-world challenges and refined by experience._
 
 ---
 
-## 📊 GitHub Stats
+## 📋 Project Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=dbp-jack&show_icons=true&theme=default" alt="dbp-jack's GitHub stats" />
-> ⚠️ 상단 언어 통계는 개인 소유 레포지토리 기준이며, Organizations 활동은 포함되지 않습니다.
+| 프로젝트 | 기간 | 역할 | 한줄 개요 | 핵심 성과 | 링크 |
+|---|---|---|---|---|---|
+| 🛍️ FeedShop | 2025.05 – 2025.09 | 부팀장 | 피드 참여·투표·리워드를 결합한 참여형 커머스 백엔드 시스템 | 투표 집계 동기화로 운영 데이터 정합성 확보 / 이벤트 상태 기반 중복 투표 방지 로직 구현 | [GitHub](https://github.com/dbp-jack/FeedShop_Backend_Refactoring) |
+| 🧢 Teepick | 2025.04 – 2025.05 | 팀장 | 야구 팬 대상 티켓 예매·이벤트·채팅 통합 MSA 플랫폼 | Feign→Kafka 전환으로 응답시간 83% 개선 / Kafka 병렬처리로 TPS 3배 향상 | [GitHub](https://github.com/FINAL-SPARTA/SPARTA-FINAL-PROJECT) |
+| 🚛 B2B 물류 시스템 | 2025.03 – 2025.04 | 팀장 | MSA 기반 물류 관리 및 배송 처리 플랫폼 | Redis 캐싱으로 DB 부하 분산 및 응답속도 개선 / 인증·사용자 도메인 분리로 구조 안정성 향상 | [GitHub](https://github.com/sparta-i4u/sparta-msa) |
+| 🍱 B2C 음식 주문 플랫폼 | 2025.02 – 2025.03 | 팀장 | 배달·포장 주문 관리 및 결제 기능 제공 모놀리식 플랫폼 | 도메인 간 의존성 최소화 설계로 MSA 전환 기반 확보 / WebClient 도입으로 도메인 간 통신 문제 해결 | [GitHub](https://github.com/sparta-onetoone/sparta-onetoone) |
+| 🧠 AI 홍보물 제작 서비스 | 2023.12 – 2024.02 | 팀원 | 자영업자용 홍보물 자동 생성 AI 서비스 백엔드 | 소상공인 40명 설문 기반 수요 도출 및 기획 반영 / DRF 기반 Android 연동 RESTful API 구축 | [GitHub](https://github.com/flyai-Ambition7) |
+| ❤️ ECG 건강 모니터링 | 2023.09 – 2024.01 | 팀장 | ECG 센서 기반 실시간 부정맥 감지 웹 서비스 | AJAX 롱폴링 전환으로 응답 지연 72% 감소 (320ms→90ms) / 학술 논문 발표 및 글로벌 성과 교류 | [GitHub](https://github.com/dbp-jack/Development-of-daily-life-physical-monitoring-web-service-using-electrocardiogram-sensor.git) |
+| 🏗️ 건설현장 대시보드 | 2023.03 – 2023.08 | 개인 | 건설현장 안전장비 착용 상태 실시간 수집·시각화 대시보드 | AJAX 0.1초 주기 실시간 센서 데이터 처리 구현 / 전체 기획·설계·개발 단독 수행 | - |
+
 ---
 
 ## 📁 Projects
